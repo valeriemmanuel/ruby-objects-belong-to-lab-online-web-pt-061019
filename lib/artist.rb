@@ -6,4 +6,5 @@ class Artist
    @@artist= artist
    @@all << self
  end
+
 end
