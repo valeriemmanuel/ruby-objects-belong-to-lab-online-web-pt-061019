@@ -3,7 +3,7 @@ class Artist
   @@all = []
   
  def initialize(artist)
-   @@artist = artist
+   @@artist == artist
    @@all << self
  end
 end
